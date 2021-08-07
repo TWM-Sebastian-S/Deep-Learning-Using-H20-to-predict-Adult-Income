@@ -50,7 +50,9 @@ I define a grid for hyperparameter that search for the best parameters between a
 
 ## Model Performance
 
-According to the hyperparameters, H20 built more than 40 different models that I listed for their F1-score descending. The best model was selected with a 0,71 F1. Recall Curve](https://github.com/TWM-Sebastian-S/Predicting-Churn-using-Gradient-Boosting-and-Logistic-Regression/blob/main/Precision%20Recall%20Curve.JPG "Precision Recall Curve")
+According to the hyperparameters, H20 built more than 40 different models that I listed for their F1-score descending. The best model was selected with a 0,71 F1. 
+
+[Recall Curve]()
 
 ## Conclusion
 
