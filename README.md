@@ -1,10 +1,10 @@
-# Deep Learning using H20-3 to Predict Adult Income
+# Deep Learning using H2O to Predict Adult Income
 
 ### This is one of my personal DS/ML/DL projects I've been working in since I started my career as a Data Scientist.
 
 ## Project Overview
 
-Deep Learning Project in Python created using H20-3 to find out the best model to predict if an adult will have an annual income of more or less of 50k.
+Deep Learning Project in Python created using H2O to find out the best model to predict if an adult will have an annual income of more or less of 50k.
 Project included: 
   - Breakdown Problem Statement
   - EDA & database cleaning
@@ -23,7 +23,7 @@ Prediction task is to determine whether a person makes over 50K a year.
 ## Code and resources used
 **Python Version:** 3.7
 
-**Packages:** Pandas / Numpy / Seaborn / H20-3
+**Packages:** Pandas / Numpy / Seaborn / H2O
 
 **ML Resources:** Deep Learning / Neural Networks / AUC / Confusion Matrix / F1
 
@@ -54,6 +54,6 @@ According to the hyperparameters, H20 built more than 40 different models that I
 
 ## Conclusion
 
-I came up with a Deep Learning neural network model using H20 to predict adult income.
+I came up with a Deep Learning neural network model using H2O to predict adult income.
 
 [GitHub Repository](https://github.com/TWM-Sebastian-S/Deep-Learning-Using-H20-to-predict-Adult-Income)
