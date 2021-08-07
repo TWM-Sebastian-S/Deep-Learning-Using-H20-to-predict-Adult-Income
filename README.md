@@ -52,7 +52,7 @@ I define a grid for hyperparameter that search for the best parameters between a
 
 According to the hyperparameters, H20 built more than 40 different models that I listed for their F1-score descending. The best model was selected with a 0,71 F1. 
 
-[Recall Curve]()
+[DL Learning models sorted by F1](https://github.com/TWM-Sebastian-S/Deep-Learning-Using-H20-to-predict-Adult-Income/blob/main/Deep%20Learning%20models%20sorted%20by%20F1.JPG "DL Learning models sorted by F1")
 
 ## Conclusion
 
